@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://tobycurl.micro.blog/2026/05/18/watched-the-running-man-having/",
+				
+				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/865\">The Running Man</a> 🍿</p>\n<p>Having watched this after the 2025 version it felt like it had way more actual running.</p>\n",
+				"content_text": "Watched: [The Running Man](https://www.themoviedb.org/movie/865) 🍿\n\nHaving watched this after the 2025 version it felt like it had way more actual running.\n",
+				"date_published": "2026-05-18T22:45:08+01:00",
+				"url": "https://tobycurl.com/2026/05/18/watched-the-running-man-having/"
+			},
+			{
+				"id": "http://tobycurl.micro.blog/2026/05/17/watched-the-running-man/",
+				
+				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/798645\">The Running Man</a> 🍿</p>\n",
+				"content_text": "Watched: [The Running Man](https://www.themoviedb.org/movie/798645) 🍿\n",
+				"date_published": "2026-05-17T22:57:14+01:00",
+				"url": "https://tobycurl.com/2026/05/17/watched-the-running-man/",
+				"tags": ["Films"]
+			},
+			{
 				"id": "http://tobycurl.micro.blog/2026/05/10/both-the-wind-waker-and/",
 				"title": "Invert the y-axis",
 				"content_html": "<p>&ldquo;Both The Wind Waker and Super Mario 64 use a free camera system, so you can think of the perspective as being filmed through a camera on a tripod or gimbal. When you rotate the camera tripod arm to the left, the camera turns to the right, which can explain the reasoning the developers had for building the games this way. Nintendo even used this sort of reasoning in its game manuals to explain the free camera system. You’re playing the game, yes, but you’re actually “filming” Mario as the Lakitu Bros., who fly around a cloud with a camera attached to a fishing pole.&quot;:</p>\n<p><a href=\"https://aftermath.site/invert-controls-horizontal-x-axis\">Aftermath: OK, But Who Is Inverting Their Horizontal Controls?</a></p>\n<p>This is exactly why I still invert the y-axis everywhere but I have since stopped inverting the x-axis (never did in FPS games, only 3rd person games) as that now usually also controls the player movement.</p>\n",
