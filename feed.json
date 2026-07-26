@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://tobycurl.micro.blog/2026/07/26/watched-my-neighbor-totoro/",
+				
+				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/8392\">My Neighbor Totoro</a> 🍿❤️</p>\n",
+				"content_text": "Watched: [My Neighbor Totoro](https://www.themoviedb.org/movie/8392) 🍿❤️\n",
+				"date_published": "2026-07-26T20:43:04+01:00",
+				"url": "https://tobycurl.com/2026/07/26/watched-my-neighbor-totoro/",
+				"tags": ["Films","Favourite"]
+			},
+			{
 				"id": "http://tobycurl.micro.blog/2026/07/23/watched-hoppers/",
 				
 				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/1327819\">Hoppers</a> 🍿</p>\n",
