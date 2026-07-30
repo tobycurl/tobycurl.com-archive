@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://tobycurl.micro.blog/2026/07/30/watched-finding-nemo/",
+				
+				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/12\">Finding Nemo</a> 🍿</p>\n",
+				"content_text": "Watched: [Finding Nemo](https://www.themoviedb.org/movie/12) 🍿\n",
+				"date_published": "2026-07-30T20:52:51+01:00",
+				"url": "https://tobycurl.com/2026/07/30/watched-finding-nemo/",
+				"tags": ["Films"]
+			},
+			{
+				"id": "http://tobycurl.micro.blog/2026/07/26/watched-the-emperors-new-groove/",
+				
+				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/11688\">The Emperor&rsquo;s New Groove</a> 🍿</p>\n<p>More outright comical than I was expecting but then John Goodman playing Pacha with a sadness about him.</p>\n",
+				"content_text": "Watched: [The Emperor's New Groove](https://www.themoviedb.org/movie/11688) 🍿\n\nMore outright comical than I was expecting but then John Goodman playing Pacha with a sadness about him.\n",
+				"date_published": "2026-07-26T22:43:27+01:00",
+				"url": "https://tobycurl.com/2026/07/26/watched-the-emperors-new-groove/",
+				"tags": ["Films"]
+			},
+			{
 				"id": "http://tobycurl.micro.blog/2026/07/26/watched-my-neighbor-totoro/",
 				
 				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/8392\">My Neighbor Totoro</a> 🍿❤️</p>\n",
