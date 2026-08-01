@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://tobycurl.micro.blog/2026/08/01/watched-rise-of-the-planet/",
+				
+				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/61791\">Rise of the Planet of the Apes</a> 🍿</p>\n",
+				"content_text": "Watched: [Rise of the Planet of the Apes](https://www.themoviedb.org/movie/61791) 🍿\n",
+				"date_published": "2026-08-01T23:15:09+01:00",
+				"url": "https://tobycurl.com/2026/08/01/watched-rise-of-the-planet/",
+				"tags": ["Films"]
+			},
+			{
+				"id": "http://tobycurl.micro.blog/2026/07/31/watched-finding-dory/",
+				
+				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/127380\">Finding Dory</a> 🍿</p>\n",
+				"content_text": "Watched: [Finding Dory](https://www.themoviedb.org/movie/127380) 🍿\n",
+				"date_published": "2026-07-31T07:30:50+01:00",
+				"url": "https://tobycurl.com/2026/07/31/watched-finding-dory/",
+				"tags": ["Films"]
+			},
+			{
 				"id": "http://tobycurl.micro.blog/2026/07/30/watched-finding-nemo/",
 				
 				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/12\">Finding Nemo</a> 🍿</p>\n",
