@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://tobycurl.micro.blog/2026/08/03/watched-dawn-of-the-planet/",
+				
+				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/119450\">Dawn of the Planet of the Apes</a> 🍿</p>\n",
+				"content_text": "Watched: [Dawn of the Planet of the Apes](https://www.themoviedb.org/movie/119450) 🍿\n",
+				"date_published": "2026-08-03T13:18:32+01:00",
+				"url": "https://tobycurl.com/2026/08/03/watched-dawn-of-the-planet/",
+				"tags": ["Films"]
+			},
+			{
 				"id": "http://tobycurl.micro.blog/2026/08/01/watched-rise-of-the-planet/",
 				
 				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/61791\">Rise of the Planet of the Apes</a> 🍿</p>\n",
