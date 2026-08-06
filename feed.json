@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://tobycurl.micro.blog/2026/08/06/watched-monsters-inc/",
+				
+				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/585\">Monsters, Inc.</a> 🍿</p>\n",
+				"content_text": "Watched: [Monsters, Inc.](https://www.themoviedb.org/movie/585) 🍿\n",
+				"date_published": "2026-08-06T07:28:32+01:00",
+				"url": "https://tobycurl.com/2026/08/06/watched-monsters-inc/",
+				"tags": ["Films"]
+			},
+			{
 				"id": "http://tobycurl.micro.blog/2026/08/03/watched-dawn-of-the-planet/",
 				
 				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/119450\">Dawn of the Planet of the Apes</a> 🍿</p>\n",
