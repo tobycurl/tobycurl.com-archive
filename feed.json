@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://tobycurl.micro.blog/2026/10/31/watched-ghostbusters/",
+				
+				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/43074\">Ghostbusters</a> 🍿</p>\n",
+				"content_text": "Watched: [Ghostbusters](https://www.themoviedb.org/movie/43074) 🍿\n",
+				"date_published": "2026-10-31T23:23:15+01:00",
+				"url": "https://tobycurl.com/2026/10/31/watched-ghostbusters/",
+				"tags": ["Films"]
+			},
+			{
 				"id": "http://tobycurl.micro.blog/2026/10/11/watched-kingdom-of-the-planet/",
 				
 				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/653346\">Kingdom of the Planet of the Apes</a> 🍿</p>\n<p>As with all Planet of the Apes movies at some point I start singing the musical.</p>\n",
